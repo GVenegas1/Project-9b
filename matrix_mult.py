@@ -1,4 +1,9 @@
-# matrix_mult.py
+#project-9b
+
+#Gabriel Venegas
+#GitHub username: GVenegas1
+#Date: 11/26/2025
+
 
 # This function does the dot product of two lists.
 # Dot product = multiply the numbers in the same spots and add them.
@@ -56,7 +61,7 @@ def matrix_mult(A, B):
 
 
 
-# You can test it here
+# Testing here
 if __name__ == "main":
     A = [[3, 1], [-8, 5], [1, 4]]
     B = [[1, 4, 7, 1], [-5, -8, 4, 3]]
